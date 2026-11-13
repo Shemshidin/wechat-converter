@@ -1,0 +1,6 @@
+data.json
+data.json.bak
+*.bak
+_preview/
+.playwright-mcp/
+.DS_Store
